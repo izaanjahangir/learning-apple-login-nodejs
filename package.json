@@ -15,6 +15,7 @@
   "author": "izaan jahangir",
   "license": "ISC",
   "dependencies": {
+    "apple-signin": "https://github.com/alaborderie/node-apple-signin.git",
     "express": "^4.17.1"
   },
   "devDependencies": {
