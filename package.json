@@ -1,0 +1,23 @@
+{
+  "name": "apple-login",
+  "version": "1.0.0",
+  "description": "This project is to demonstrate apple login for my medium article",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon start"
+  },
+  "keywords": [
+    "apple-login",
+    "nodejs",
+    "expressjs"
+  ],
+  "author": "izaan jahangir",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
